@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="1.0" viewHeight="300" viewWidth="300" d:locked="false" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt">
+  <BitmapGraphic source="@Embed('black_photoshop_1bit.assets/images/Index.png')" repeat="false" d:userLabel="Index"/>
+</Graphic>
